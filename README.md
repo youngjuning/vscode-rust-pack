@@ -15,6 +15,7 @@ Minimalist VS Code Extension Pack for Rust development.
 - [Rust (rust-analyzer)][rust-ext-url]
 - [crates][crates-ext-url]
 - [Even Better TOML][even-better-toml-ext-url]
+- [CodeLLDB][vscode-lldb]
 
 ### Potential Extension Additions
 
@@ -53,3 +54,4 @@ MIT - see license details [here][license-url]
 [crates-ext-url]: https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates
 [even-better-toml-ext-url]: https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml
 [rusty-hook-crate-url]: https://crates.io/crates/rusty-hook
+[vscode-lldb]: https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb
