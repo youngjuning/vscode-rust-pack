@@ -17,7 +17,8 @@
   "extensionPack": [
     "rust-lang.rust-analyzer",
     "serayuzgur.crates",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "vadimcn.vscode-lldb"
   ],
   "keywords": [
     "rust",
